@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Chris 👋
 
-<!--
-**laycockc/laycockc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ AWS nerd | 🤫 IAM/SCP policy whisperer | 🦅 US GovCloud workloads | 🛠️ Terraform-heavy | ✨ Vibe coding
 
-Here are some ideas to get you started:
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&labelColor=orange)
+![IAM/SCP](https://img.shields.io/badge/-IAM&SCP-232F3E?style=flat-square&labelColor=red)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- 🔐 [envkey](https://github.com/laycockc/envkey) - secrets without servers.
+- 🔍 [riskprism](https://github.com/laycockc/riskprism) - turn change into clear decisions with AI-powered risk and explanations.
