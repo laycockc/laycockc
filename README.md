@@ -1,6 +1,6 @@
 ## Hi there, I'm Chris 👋
 
-☁️ AWS nerd | 🤫 IAM/SCP policy whisperer | 🦅 US GovCloud workloads | 🛠️ Terraform-heavy | ✨ Vibe coding
+☁️ AWS native | 🤫 IAM/SCP policy whisperer | 🦅 US GovCloud workloads | 🛠️ Terraform-heavy | ✨ Vibe coding
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&labelColor=orange)
 ![IAM/SCP](https://img.shields.io/badge/-IAM&SCP-232F3E?style=flat-square&labelColor=red)
